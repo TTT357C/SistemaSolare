@@ -1,2 +1,2 @@
 # SistemaSolare ☀️
-Programma interamente scritto in c++ con animazioni ascii, 3° superiore
+Programma interamente scritto in C++ con animazioni ascii, 3° superiore
